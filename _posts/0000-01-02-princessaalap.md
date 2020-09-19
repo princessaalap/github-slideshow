@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-It's me peepers!
-Use the left arrow to go back!
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+[x] Use the left arrow to go back!
